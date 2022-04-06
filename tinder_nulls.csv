@@ -1,0 +1,454 @@
+Single,Question,Segment Type,Count,Segment Description,Answer,Percentage,timestamp,Values
+False,are there any good romantic comedies out right now,Mobile,797,Mobile respondents,Yes,0.96695176990641,21/12/21 18:53,1
+False,show me a movie about cars that talk,Web,1969,Mobile respondents,No,0.514801671117009,21/12/21 19:08,1
+False,list the five star rated movies starring mel gibson,Mobile,1090,Mobile respondents,I don't use Tinder,0.53901418715461,21/12/21 19:23,1
+True,what science fiction films have come out recently,University,0,Web-based respondents,Yes,0.29566897103433,21/12/21 19:38,1
+True,did the same director make all of the harry potter movies,University,0,Web-based respondents,No,0.401145420868218,21/12/21 19:53,
+False,show me 1980s action movies,University,0,Web-based respondents,I don't use Tinder,0.931669021058251,21/12/21 20:08,
+False,what is the name of the third movie in the star trek series,University,472,Male respondents,Yes,0.377296690532886,21/12/21 20:23,1
+True,can you get a soundtrac for the harry potter films,University,1172,Male respondents,No,0.85572017875901,21/12/21 20:38,1
+True,find me science fiction movies since 2005,Mobile,574,Male respondents,I don't use Tinder,0.455284378793058,21/12/21 20:53,
+True,what is the most current movie featuring mat damon,Mobile,325,Female respondents,Yes,0.289715426612171,21/12/21 21:08,
+False,show me films where jim carrey is a detective,Mobile,797,Female respondents,No,0.635463359824536,21/12/21 21:23,1
+False,did george clooney make a musical in the 1980s,University,516,Female respondents,I don't use Tinder,0.026556676045258,21/12/21 21:38,1
+False,show me films with both matt damon ad ben affleck,Mobile,13,Chapman University,Yes,0.034770251746921,21/12/21 21:53,1
+False,what is the borrowers movie,University,31,Chapman University,No,0.058781424351462,21/12/21 22:08,1
+False,have u movie hm about to pg 18,University,19,Chapman University,I don't use Tinder,0.804120161529991,21/12/21 22:23,
+False,find rated g films with flying cars,University,47,Cornell University,Yes,0.687085072517745,21/12/21 22:38,
+True,what was the best rated stanley kubrick film,University,95,Cornell University,No,0.013489627897105,21/12/21 22:53,
+False,are there any films directed by shawn levy about large families,University,51,Cornell University,I don't use Tinder,0.131267303984126,21/12/21 23:08,1
+True,list pg rated movies about cars released in the 1990s,Web,0,Duke University,Yes,0.395502115295777,21/12/21 23:23,
+True,what movie won best picure at the 2012 oscars,Mobile,2,Duke University,No,0.50348659512702,21/12/21 23:38,1
+True,find me childrens movies with daniel radcliffe from the 2000s,Web,1,Duke University,I don't use Tinder,0.050187125073879,21/12/21 23:53,
+True,what was the plot behind 3 days of the condor,Mobile,1,George Washington University,Yes,0.731430325396749,22/12/21 00:08,1
+False,what are considered the must see sci fi movies of the 1970s,Mobile,3,George Washington University,No,0.483636922924564,22/12/21 00:23,1
+True,who directed the film pulp fiction that starred john travolta,University,0,George Washington University,I don't use Tinder,0.409012603939592,22/12/21 00:38,1
+True,which film has the highest viewer rating this year,University,2,Georgetown University,Yes,0.684231478687358,22/12/21 00:53,1
+True,what was the first movie in color,Mobile,1,Georgetown University,No,0.45489151020916,22/12/21 01:08,
+True,may i have the highly acclaimed film from 1985 directed by sylvester stallone,University,1,Georgetown University,I don't use Tinder,0.884580245059637,22/12/21 01:23,1
+False,list the action films starring hugh jackman,University,1,Harvard University,Yes,0.538560974568398,22/12/21 01:38,1
+True,what is a bronx tale rated,Mobile,2,Harvard University,No,0.294180855870157,22/12/21 01:53,1
+True,is there a pg 13 movie thats scary,Mobile,0,Harvard University,I don't use Tinder,0.502393071029378,22/12/21 02:08,
+True,what movies made in 2004 were pg,University,9,Indiana University,Yes,0.746798065706242,22/12/21 02:23,
+True,find movies with robert diniero in it,Mobile,30,Indiana University,No,0.128377151959388,22/12/21 02:38,1
+False,have pg 13 movies for the kidz,Mobile,5,Indiana University,I don't use Tinder,0.334576410925021,22/12/21 02:53,
+False,list the science fiction movies directed by shawn levy,Mobile,33,Johns Hopkins University,Yes,0.770586488207449,22/12/21 03:08,
+True,what was the last film elizabeth montgomery starred in,Mobile,76,Johns Hopkins University,No,0.801974325929661,22/12/21 03:23,1
+True,did george clooney direct any comedy films,Mobile,29,Johns Hopkins University,I don't use Tinder,0.458444509348609,22/12/21 03:38,
+True,what is brad pitts first movie,Mobile,31,Northwestern University,Yes,0.073275442736484,22/12/21 03:53,
+False,find me the movie that has a aerosmith song,University,65,Northwestern University,No,0.690198148293467,22/12/21 04:08,
+True,are there any drama movies with seth green,University,24,Northwestern University,I don't use Tinder,0.598791322251542,22/12/21 04:23,
+True,what is the movie with an aerosmith song,Mobile,6,Ohio State University,Yes,0.19378046061727,22/12/21 04:38,
+False,what is the highest rated kids new release,Mobile,12,Ohio State University,No,0.298094417043094,22/12/21 04:53,
+False,worst review for 2011 movies,University,1,Ohio State University,I don't use Tinder,0.809404458125238,22/12/21 05:08,1
+False,show me the milos forman movies from the 1980s,Mobile,1,Princeton University,Yes,0.368696957262165,22/12/21 05:23,
+False,lets find an independent film company,Mobile,1,Princeton University,No,0.984574488502146,22/12/21 05:38,
+True,which movies were based off of video games besides resident evil,Web,0,Princeton University,I don't use Tinder,0.918449317882038,22/12/21 05:53,
+False,did dame judy dench star in a british film about queen elizabeth,Web,5,San Diego State University,Yes,0.661003674545908,22/12/21 06:08,
+False,present list of family movies that chris columbus directed,Mobile,15,San Diego State University,No,0.439251694822746,22/12/21 06:23,1
+True,find a movie with dogs as the main character,Mobile,6,San Diego State University,I don't use Tinder,0.340651956028663,22/12/21 06:38,1
+False,show me movies about horse racing,Mobile,0,Santa Clara University,Yes,0.2849153763712,22/12/21 06:53,
+True,show me morgan freeman movies from the 90s,University,4,Santa Clara University,No,0.535104273253071,22/12/21 07:08,1
+False,find me the movies that starred anne hathaway and julie andrews,Web,1,Santa Clara University,I don't use Tinder,0.229603371230924,22/12/21 07:23,
+True,has sandra bullock made any g rated movies,Mobile,3,Southern Methodist University,Yes,0.403776135683167,22/12/21 07:38,1
+False,list the dirty harry films from the 1980s,University,4,Southern Methodist University,No,0.597275618239679,22/12/21 07:53,
+True,show me movies about strippers,University,2,Southern Methodist University,I don't use Tinder,0.087563435241094,22/12/21 08:08,
+False,are there any meg ryan romantic comedy movies that are considered must see,Mobile,13,Stanford University,Yes,0.914107488691551,22/12/21 08:23,1
+True,what was james camerons directorial debut,Web,58,Stanford University,No,0.862282011481372,22/12/21 08:38,
+True,what are top 50 movies of all time,Mobile,37,Stanford University,I don't use Tinder,0.82166092128377,22/12/21 08:53,1
+False,find me comedy movies with liam hemsworth,University,3,Tulane University,Yes,0.974231983176712,22/12/21 09:08,
+False,i want to see cradle 2 the grave,University,3,Tulane University,No,0.449570970685449,22/12/21 09:23,
+False,what was the most popular movie from 2004,Mobile,1,Tulane University,I don't use Tinder,0.12436187234673,22/12/21 09:38,
+False,what is the g rated movie about rabbits looking for a new home,Mobile,24,University of Pennsylvania,Yes,0.050993457463642,22/12/21 09:53,
+True,what latest 3d movie of any genre is reccommend,Mobile,60,University of Pennsylvania,No,0.151621660940284,22/12/21 10:08,
+False,how many movies have tim burton and johnny depp done together,Web,24,University of Pennsylvania,I don't use Tinder,0.631058953054285,22/12/21 10:23,1
+False,how many times has matt damon been jason bourne,Mobile,34,University of Wisconsin-Madison,Yes,0.762855034164686,22/12/21 10:38,
+True,whats the latetest foreign romantic movie with lots of sex and sadness,Mobile,71,University of Wisconsin-Madison,No,0.087270891716916,22/12/21 10:53,
+False,list movies with jeremy piven released in the 1990s,Mobile,21,University of Wisconsin-Madison,I don't use Tinder,0.230632294025529,22/12/21 11:08,1
+False,show me the collection of action movies of arnold,University,2,University of Alabama,Yes,0.855203638024978,22/12/21 11:23,1
+False,are there comic book movies that are over pg 13,University,11,University of Alabama,No,0.661854081928288,22/12/21 11:38,
+False,the new batman movie looks epic,Web,2,University of Alabama,I don't use Tinder,0.323623127183617,22/12/21 11:53,1
+True,show me movies who won awards,Mobile,25,"University of California, Berkeley",Yes,0.798789869142873,22/12/21 12:08,1
+True,what is the year that dirty dancing was released,Mobile,47,"University of California, Berkeley",No,0.933833455819967,22/12/21 12:23,1
+True,favorite quote from action movies,Web,19,"University of California, Berkeley",I don't use Tinder,0.839736712370216,22/12/21 12:38,1
+True,find me the g rated movies with dogs that were released in the 2000s,University,3,"University of California, Davis",Yes,0.679352776856077,22/12/21 12:53,1
+False,are there any silent movies made after 1930,Mobile,8,"University of California, Davis",No,0.503809927259198,22/12/21 13:08,
+True,who was the actress in the goodbye girl with richard dreyfuss,Mobile,6,"University of California, Davis",I don't use Tinder,0.147992425732528,22/12/21 13:23,
+False,which movies are made with video game plots,University,1,"University of California, Los Angeles",Yes,0.556021794282196,22/12/21 13:38,
+False,what video game movies are due to release in 2013,Mobile,7,"University of California, Los Angeles",No,0.206716254823571,22/12/21 13:53,
+True,id like the not to be missed nicole kidman musical,Mobile,5,"University of California, Los Angeles",I don't use Tinder,0.812132053895155,22/12/21 14:08,
+False,what movie has the most remakes,University,24,"University of California, Santa Barbara",Yes,0.994819820686838,22/12/21 14:23,
+True,what shakespeare films take place in italy,Mobile,34,"University of California, Santa Barbara",No,0.479213351905015,22/12/21 14:38,
+True,what was channing tatums first movie,Mobile,17,"University of California, Santa Barbara",I don't use Tinder,0.085835397179171,22/12/21 14:53,1
+False,i would like a list of movies about dancing from the past 10 years,University,3,University of Colorado Boulder,Yes,0.359714779016382,22/12/21 15:08,
+False,who stars in project x,Mobile,3,University of Colorado Boulder,No,0.208538285763262,22/12/21 15:23,1
+True,find action movies featuring comic book characters,Mobile,0,University of Colorado Boulder,I don't use Tinder,0.761977670628164,22/12/21 15:38,
+True,what are some g rated movies with fairies,Web,0,University of Miami,Yes,0.142160675209011,22/12/21 15:53,
+True,name a movie starring britney spears,University,0,University of Miami,No,0.427884386132541,22/12/21 16:08,1
+False,what movie did rod serling write,Mobile,1,University of Miami,I don't use Tinder,0.757908291513765,22/12/21 16:23,1
+False,is there an animated adult fantasy movie,Mobile,14,University of Michigan,Yes,0.677935498275761,22/12/21 16:38,1
+True,the song sunshine on my shoulders was the soundtrack for what movie,Mobile,49,University of Michigan,No,0.487759751052418,22/12/21 16:53,1
+True,are there any movies about popular game shows,Web,23,University of Michigan,I don't use Tinder,0.953316240857137,22/12/21 17:08,
+True,find me the name of the actor that played v in v for vendetta,Mobile,1,University of Oregon,Yes,0.766184511626604,22/12/21 17:23,
+False,what was the last terminator sequel,Mobile,4,University of Oregon,No,0.562995943732033,22/12/21 17:38,1
+False,what science fiction movies were directed by george lucas,Mobile,0,University of Oregon,I don't use Tinder,0.362200999347213,22/12/21 17:53,1
+True,who directed princess bride,Web,1,University of Southern California,Yes,0.543351510304656,22/12/21 18:08,1
+False,who directed james and the giant peach,Mobile,7,University of Southern California,No,0.890039824963378,22/12/21 18:23,1
+False,name a western comedy,Mobile,2,University of Southern California,I don't use Tinder,0.780710644529739,22/12/21 18:38,1
+True,what type of movie is nine,Mobile,3,University of Virginia,Yes,0.426377395361806,22/12/21 18:53,1
+True,how many movies have starred brad pitt,University,7,University of Virginia,No,0.825858336407901,22/12/21 19:08,1
+True,i am looking for a movie about talking animals,Mobile,8,University of Virginia,I don't use Tinder,0.805053767499505,22/12/21 19:23,1
+True,find a john malcovich thriller,University,23,Vanderbilt University,Yes,0.505878400519808,22/12/21 19:38,1
+True,channing tatum has played what starring roles,University,63,Vanderbilt University,No,0.526232520389434,22/12/21 19:53,1
+False,list of actors a beautiful mind,Mobile,12,Vanderbilt University,I don't use Tinder,0.422390544707786,22/12/21 20:08,1
+True,avatar came out when and what did it gross,Web,0,Wesleyan University,Yes,0.078417818187022,22/12/21 20:23,1
+False,did angelina jolie play a russian in salt,Mobile,2,Wesleyan University,No,0.495167992612439,22/12/21 20:38,
+True,did they make a movie version of absolutely fabulous,Web,0,Wesleyan University,I don't use Tinder,0.133782711080099,22/12/21 20:53,
+True,show me a comedy movie with eddie murphy,Mobile,12,University of Texas,Yes,0.671064735232619,22/12/21 21:08,1
+False,what is brave about,Mobile,35,University of Texas,No,0.096657609890754,22/12/21 21:23,1
+False,has ashton kutcher made any movies with zombies,Mobile,26,University of Texas,I don't use Tinder,0.574911879055109,22/12/21 21:38,
+True,what movie stars christopher walken an sean penn,University,1,"University of California, San Diego",Yes,0.117208620869798,22/12/21 21:53,1
+True,show me movies starring michael j fox from 1993,University,0,"University of California, San Diego",No,0.892243530042936,22/12/21 22:08,1
+True,who starred in marley and me,Mobile,0,"University of California, San Diego",I don't use Tinder,0.313187699812203,22/12/21 22:23,
+False,what movie has the song down with the sickness,Mobile,0,Miami University (Ohio),Yes,0.323840459831569,22/12/21 22:38,1
+False,did simon pegg write any movies,Web,1,Miami University (Ohio),No,0.338949847646836,22/12/21 22:53,
+True,are there any pg movies with car chases,University,1,Miami University (Ohio),I don't use Tinder,0.627540726724291,22/12/21 23:08,
+True,what movie won the most awards in 2005,Mobile,0,University of Maine,Yes,0.41333885299334,22/12/21 23:23,1
+True,what is puss in boots about,Mobile,3,University of Maine,No,0.206849877003584,22/12/21 23:38,1
+True,how many movies have been released in the last ten years that involved terrorism,Mobile,1,University of Maine,I don't use Tinder,0.037057828502851,22/12/21 23:53,
+False,who directed runaway jury,Web,3,Texas Tech University,Yes,0.275274332558487,23/12/21 00:08,
+True,show me a good spy movie based in england,Mobile,5,Texas Tech University,No,0.803605745654058,23/12/21 00:23,1
+False,what popular films released last month,Web,5,Texas Tech University,I don't use Tinder,0.593354825662715,23/12/21 00:38,1
+True,did dean parisot direct sigourney weaver and tim allen in a comedy,University,1,University of North Carolina,Yes,0.404024612774191,23/12/21 00:53,
+True,who directed the help,Mobile,8,University of North Carolina,No,0.30405595210182,23/12/21 01:08,1
+True,what is the title of woody allens first movie,University,3,University of North Carolina,I don't use Tinder,0.800619414566336,23/12/21 01:23,
+True,what are some police dramas from the 90s,Mobile,12,University of Arkansas,Yes,0.066611435626225,23/12/21 01:38,1
+False,how many films did clive owen play in,University,35,University of Arkansas,No,0.974524749768083,23/12/21 01:53,1
+True,are there any films that harmony korine regrets directing andor releasing to the public,Mobile,19,University of Arkansas,I don't use Tinder,0.667947168810827,23/12/21 02:08,
+False,show me an alfred hitchcock movie about trains,University,2,University of Mississippi,Yes,0.688984244439141,23/12/21 02:23,1
+False,who stars in rumble in the bronx,University,1,University of Mississippi,No,0.503567133022722,23/12/21 02:38,
+False,what was the first movie patrick stewart played in,Mobile,0,University of Mississippi,I don't use Tinder,0.435279590293507,23/12/21 02:53,1
+True,what is the film john carter about,Mobile,2,Baylor University,Yes,0.117766635110212,23/12/21 03:08,
+False,what is the longest running time for a movie in film history,Mobile,2,Baylor University,No,0.441439363668793,23/12/21 03:23,
+True,what was the release year for notes on a scandal,Mobile,3,Baylor University,I don't use Tinder,0.79714294147999,23/12/21 03:38,
+False,did milos forman direct a film with edward norton,Mobile,13,Texas A&M University,Yes,0.131743186175304,23/12/21 03:53,
+False,how many movies did christopher walkin star in,Mobile,29,Texas A&M University,No,0.854142335848094,23/12/21 04:08,
+False,i want to find a list of pg rated comedies of this year,University,12,Texas A&M University,I don't use Tinder,0.63132939209128,23/12/21 04:23,
+False,what are some movies from the 80s starring bruce willis,University,0,University of Oklahoma,Yes,0.962977178496318,23/12/21 04:38,1
+True,waht was the plot of the deep blue sea,Mobile,4,University of Oklahoma,No,0.324498320288583,23/12/21 04:53,
+False,did guillermo del toro direct any moves rated pg,University,1,University of Oklahoma,I don't use Tinder,0.110354891322915,23/12/21 05:08,
+False,who played james in james and the giant peach,Mobile,1,Yale University,Yes,0.262333135064884,23/12/21 05:23,1
+True,what movies from 2006 star val kilmer,Mobile,0,Yale University,No,0.866982325474209,23/12/21 05:38,1
+True,what kind of movie is wanderlust,University,0,Yale University,I don't use Tinder,0.023370371467945,23/12/21 05:53,
+False,did whitney houston sing in the preachers wife,University,8,Cal Poly San Luis Obispo,Yes,0.152817263992402,23/12/21 06:08,
+True,what techno thriller gets a low rating,University,10,Cal Poly San Luis Obispo,No,0.442300873374064,23/12/21 06:23,1
+False,any good horror films that came out in 2008,Mobile,7,Cal Poly San Luis Obispo,I don't use Tinder,0.559420293561596,23/12/21 06:38,1
+True,where can i watch a preview of moneyball,Mobile,1,Carnegie Mellon University,Yes,0.629192815746649,23/12/21 06:53,1
+False,what is the most recent sean connery film,Mobile,3,Carnegie Mellon University,No,0.93714167921655,23/12/21 07:08,1
+False,are there any scary pg rated movies,Mobile,0,Carnegie Mellon University,I don't use Tinder,0.111137616041682,23/12/21 07:23,
+True,what is a recent george clooney movie with high viewers rating,University,2,Clemson University,Yes,0.271105576529932,23/12/21 07:38,1
+True,which animated childrens movies are considered timeless,Web,0,Clemson University,No,0.449536356107368,23/12/21 07:53,
+False,find me the movie with the song my heart will go on,Mobile,2,Clemson University,I don't use Tinder,0.300403894499097,23/12/21 08:08,
+True,what are some batman movies from the 1990s,Mobile,1,University of Denver,Yes,0.676117818824436,23/12/21 08:23,
+True,what horror movies have marilyn manson on the soundtrack,University,0,University of Denver,No,0.207315250282247,23/12/21 08:38,1
+True,show me terry gilliam movies starring jeff bridges,University,0,University of Denver,I don't use Tinder,0.091564820311493,23/12/21 08:53,1
+True,was there a trailer for bowling for columbine,Web,0,University of Washington,Yes,0.247205874575372,23/12/21 09:08,
+False,when did interview with a vampire come out,University,3,University of Washington,No,0.411470449153394,23/12/21 09:23,1
+False,who starred in who framed roger rabbit,University,1,University of Washington,I don't use Tinder,0.264231075227473,23/12/21 09:38,1
+True,who directed 310 to yuma,University,10,University of Illinois,Yes,0.713193002567319,23/12/21 09:53,
+False,what movies have batman and robin,University,29,University of Illinois,No,0.777553411791293,23/12/21 10:08,1
+True,is there a horror movie starring jennifer lopez,University,8,University of Illinois,I don't use Tinder,0.121949254039876,23/12/21 10:23,
+True,did the mpaa give doubt a pg 13 rating,Mobile,1,New York University,Yes,0.304070616378725,23/12/21 10:38,
+False,did vin diesel star in any comdedies,Mobile,2,New York University,No,0.185843905208749,23/12/21 10:53,
+True,did ray liota direct any films,Mobile,0,New York University,I don't use Tinder,0.077619208445407,23/12/21 11:08,1
+False,did gwyneth paltrow play a mathematician in a movie with anthony hopkins,University,7,Butler University,Yes,0.354705035517289,23/12/21 11:23,
+True,is there a movie based on a shakespeare play,Mobile,44,Butler University,No,0.929840397493506,23/12/21 11:38,1
+True,find me a movie with the song lets hear it for the boys,Mobile,17,Butler University,I don't use Tinder,0.230384064252593,23/12/21 11:53,
+False,what was the fog rated,Mobile,1,Washington University in St. Louis,Yes,0.486620181284302,23/12/21 12:08,
+False,what was johnny depps first movie,Mobile,5,Washington University in St. Louis,No,0.523618460369209,23/12/21 12:23,
+False,what was goodfellas rated,Mobile,2,Washington University in St. Louis,I don't use Tinder,0.667630596253243,23/12/21 12:38,
+False,what was the name of the donkey in shrek,University,0,Northern Illinois University,Yes,0.331560203897348,23/12/21 12:53,
+False,did joe pesci direct any films,Mobile,1,Northern Illinois University,No,0.614439618550341,23/12/21 13:08,1
+True,what are some horror movies from the 1970s,University,1,Northern Illinois University,I don't use Tinder,0.107506472543868,23/12/21 13:23,1
+True,show me a deborah harry movie,Mobile,1,University of Iowa,Yes,0.172360872664425,23/12/21 13:38,1
+False,kung fu panda 2,Web,1,University of Iowa,No,0.443484636437872,23/12/21 13:53,1
+True,what year was the movie the seven year itch made,University,1,University of Iowa,I don't use Tinder,0.305337807819801,23/12/21 14:08,
+False,is there a comedy crime drama,University,5,Dartmouth College,Yes,0.894167650708312,23/12/21 14:23,1
+True,what movie stared john travolta and debra winger,University,3,Dartmouth College,No,0.973663446777395,23/12/21 14:38,
+True,directors of all the batman movies,University,2,Dartmouth College,I don't use Tinder,0.868019198053699,23/12/21 14:53,
+False,what are the best werewolf movies,Mobile,0,Loyola Marymount University,Yes,0.639947113494527,23/12/21 15:08,1
+False,who voices shrek in shrek,Mobile,1,Loyola Marymount University,No,0.601766181468592,23/12/21 15:23,1
+False,was ray liota in any comedies,Mobile,0,Loyola Marymount University,I don't use Tinder,0.07035490197882,23/12/21 15:38,
+True,what movie stars reese witherspoon in 2004,Mobile,0,Williams College,Yes,0.355319490729015,23/12/21 15:53,
+False,what movie did ursula andress first appear in,University,0,Williams College,No,0.845023579083327,23/12/21 16:08,1
+True,are there any movies set in the middle east starring george clooney,Mobile,1,Williams College,I don't use Tinder,0.67696964471045,23/12/21 16:23,1
+True,what was a love story about a woman who had alzheimers,Mobile,1,University of Maryland,Yes,0.827777016987455,23/12/21 16:38,
+True,whats a john huston flick from the 1970s,University,0,University of Maryland,No,0.674651643554846,23/12/21 16:53,
+False,who played as princess fiona in shrek,Mobile,0,University of Maryland,I don't use Tinder,0.942232756159649,23/12/21 17:08,
+False,is the last airbender rated g,Web,3,UMass Amherst,Yes,0.375567946440623,23/12/21 17:23,1
+True,show me some grat action movies from the 90s,Mobile,6,UMass Amherst,No,0.09663877182702,23/12/21 17:38,1
+True,show me dramas about the british royal family,Web,3,UMass Amherst,I don't use Tinder,0.188546359792141,23/12/21 17:53,1
+True,what was the first movie ever released,University,4,University of Arizona,Yes,0.829005678860803,23/12/21 18:08,1
+False,are there any movies with catherine ohara that were set during christmas time,Web,4,University of Arizona,No,0.295704954457771,23/12/21 18:23,1
+False,show me a james bond movie starring sean connery,Mobile,3,University of Arizona,I don't use Tinder,0.887013468084964,23/12/21 18:38,
+True,what was the title of the bio pic about robert e howard,University,8,Texas Christian University,Yes,0.219397713844132,23/12/21 18:53,1
+False,what is the theme song to stand by me,University,8,Texas Christian University,No,0.525853876056183,23/12/21 19:08,
+True,when did runaway jury come out,University,10,Texas Christian University,I don't use Tinder,0.086618290795268,23/12/21 19:23,
+True,who directed the japanese film versus,University,1,Emory University,Yes,0.433284426937856,23/12/21 19:38,
+False,show me a film that ben stiller directed,Mobile,3,Emory University,No,0.915244335567357,23/12/21 19:53,1
+False,name a kirk douglas science fiction film,University,1,Emory University,I don't use Tinder,0.307016452483256,23/12/21 20:08,1
+True,are there any five star kevin bacon movies,Mobile,2,Columbia University,Yes,0.850427851295101,23/12/21 20:23,1
+False,who stars in the girl with the dragon tattoo,University,3,Columbia University,No,0.858702890159702,23/12/21 20:38,1
+True,who was the male lead in gone with the wind,University,1,Columbia University,I don't use Tinder,0.990502084722652,23/12/21 20:53,1
+False,who played jake sully in avatar,Web,5,Purdue University,Yes,0.138906881568135,23/12/21 21:08,
+False,who directed pirates of the caribbean,Mobile,13,Purdue University,No,0.787064795399654,23/12/21 21:23,1
+False,what are some fun highly rated action movieds,University,8,Purdue University,I don't use Tinder,0.263131134344082,23/12/21 21:38,
+True,did people like or hate the last twilight movie,University,3,Tufts University,Yes,0.322140270236576,23/12/21 21:53,
+False,what are the best johnny depp movies,Mobile,2,Tufts University,No,0.36743998407414,23/12/21 22:08,1
+False,show me movies directed by alexander payne from the 2000s,Web,2,Tufts University,I don't use Tinder,0.565794600095552,23/12/21 22:23,
+False,what are some good horror movies from 1974,Web,2,University of Richmond,Yes,0.319182685426381,23/12/21 22:38,1
+True,find me a movie with the song over the rainbow in it,Mobile,9,University of Richmond,No,0.558691429321289,23/12/21 22:53,1
+True,i want a 1960s zombie flick,Mobile,7,University of Richmond,I don't use Tinder,0.957239250818311,23/12/21 23:08,
+True,how many lord of the rings films are there,Mobile,0,Quinnipiac University,Yes,0.41455000341184,23/12/21 23:23,
+True,show me the latest trailer for the avengers,Mobile,2,Quinnipiac University,No,0.385224676896483,23/12/21 23:38,
+False,who directed beaty and the beast,Mobile,0,Quinnipiac University,I don't use Tinder,0.580185097333433,23/12/21 23:53,
+True,show me a comedy with nick swardson,Mobile,0,United States Naval Academy,Yes,0.746141275326538,24/12/21 00:08,
+True,how many movies are in the sex and the city series,Mobile,3,United States Naval Academy,No,0.453235953021588,24/12/21 00:23,
+True,did martin scorsese and johnny depp ever work together,Mobile,4,United States Naval Academy,I don't use Tinder,0.239674405360754,24/12/21 00:38,1
+False,who directed the film the lorax,Web,2,"University of California, Santa Cruz",Yes,0.04855814851133,24/12/21 00:53,1
+False,has samuel jackson been in any thriller flicks,Web,1,"University of California, Santa Cruz",No,0.043654729909608,24/12/21 01:08,
+True,todd,University,0,"University of California, Santa Cruz",I don't use Tinder,0.29907708029485,24/12/21 01:23,
+False,what was the film about brandon teena,Mobile,1,Rice University ,Yes,0.718617075844287,24/12/21 01:38,
+False,who starred in drive,Mobile,4,Rice University ,No,0.248211031520649,24/12/21 01:53,
+True,what is kingdom of heaven rated,University,1,Rice University ,I don't use Tinder,0.834590782189441,24/12/21 02:08,
+True,super man,Mobile,4,Mississippi State University,Yes,0.576013137745765,24/12/21 02:23,1
+True,what is a monty python film about king arthur,University,6,Mississippi State University,No,0.52446183613701,24/12/21 02:38,1
+False,who was the actor in the movie teen wolf,University,1,Mississippi State University,I don't use Tinder,0.769224863876894,24/12/21 02:53,
+True,show me classic comedies starring bill murray,University,7,University of Missouri,Yes,0.683737910285094,24/12/21 03:08,
+True,when did underworld come out,Mobile,15,University of Missouri,No,0.089104173639933,24/12/21 03:23,1
+False,find a film with animated skeletons,Mobile,8,University of Missouri,I don't use Tinder,0.352686758700257,24/12/21 03:38,1
+False,what animated voices has eddie murphy done,University,1,University of Georgia,Yes,0.72162383486347,24/12/21 03:53,
+True,please list rated r noir films,University,9,University of Georgia,No,0.591647675513966,24/12/21 04:08,1
+False,show me the trailer for rage,University,1,University of Georgia,I don't use Tinder,0.945180201434588,24/12/21 04:23,1
+True,are there any films with volcanos,Mobile,2,Louisiana State University,Yes,0.461569079388405,24/12/21 04:38,1
+True,what is act of valor rated,University,4,Louisiana State University,No,0.270695171137096,24/12/21 04:53,1
+False,who directed terminator 2 judgement day,University,2,Louisiana State University,I don't use Tinder,0.45823798448029,24/12/21 05:08,
+True,what horror movies have snakes,Mobile,0,Lehigh University,Yes,0.740256862409701,24/12/21 05:23,1
+True,what was the name of clive owens character in sin city,Mobile,2,Lehigh University,No,0.187959346089323,24/12/21 05:38,1
+False,how many charlies angels movies are there,University,1,Lehigh University,I don't use Tinder,0.655991028367077,24/12/21 05:53,1
+True,i am looking for a pg rated disney movie,University,1,Northern Arizona University,Yes,0.452644648503043,24/12/21 06:08,
+False,how many star wars films are there,Mobile,0,Northern Arizona University,No,0.585772861545488,24/12/21 06:23,1
+True,who is directing the hobbit,University,0,Northern Arizona University,I don't use Tinder,0.752071908935851,24/12/21 06:38,1
+False,what did critics think of j edgar,Web,0,Elon University,Yes,0.018563102977621,24/12/21 06:53,
+False,who starred in the movie jurassic park,Mobile,4,Elon University,No,0.284871116798593,24/12/21 07:08,1
+True,how many movies has clint eastwood directed since 1995,Web,2,Elon University,I don't use Tinder,0.536930042921432,24/12/21 07:23,
+False,what is the name of the highest grossing movie of 2011,Mobile,1,Vassar College,Yes,0.947178814139612,24/12/21 07:38,
+True,when did the game come out,University,1,Vassar College,No,0.830307925035368,24/12/21 07:53,
+False,has john candy made any must see movies,Web,0,Vassar College,I don't use Tinder,0.265815439668666,24/12/21 08:08,
+True,are there any horror films with don rickles,Mobile,0,University of Pittsburgh,Yes,0.442885290021222,24/12/21 08:23,1
+False,find me the movie with the song married life,Mobile,0,University of Pittsburgh,No,0.394393411881054,24/12/21 08:38,1
+False,show me an oscar winning science fiction movie,Mobile,2,University of Pittsburgh,I don't use Tinder,0.267888157781506,24/12/21 08:53,1
+True,give me a list of legal dramas from the 70s,Mobile,2,University of Chicago,Yes,0.752421495168935,24/12/21 09:08,1
+True,rainbow 6,Mobile,1,University of Chicago,No,0.913886866230105,24/12/21 09:23,1
+True,show me a wes craven movie,Mobile,2,University of Chicago,I don't use Tinder,0.906582654989829,24/12/21 09:38,
+True,show me action movies that deal with stealing cars,University,0,University of Buffalo,Yes,0.278961396495341,24/12/21 09:53,
+True,when did the first hobbit movie come out,Mobile,0,University of Buffalo,No,0.385974401612184,24/12/21 10:08,1
+False,what were the reviews like for the man who shot liberty valance,University,1,University of Buffalo,I don't use Tinder,0.7994045702354,24/12/21 10:23,1
+False,show me any action movies that are in theatres right now,Mobile,2,University of Minnesota,Yes,0.906614543503089,24/12/21 10:38,1
+True,i want an fantasy action adventure film,Mobile,1,University of Minnesota,No,0.99554698865974,24/12/21 10:53,
+False,what films did pearce brosnan star in,Mobile,1,University of Minnesota,I don't use Tinder,0.997609740185117,24/12/21 11:08,
+True,what is a good romance movie with jennifer aniston,Mobile,0,Colorado State University,Yes,0.56334030540974,24/12/21 11:23,1
+True,what is the plot of the wild bunch,Mobile,3,Colorado State University,No,0.929403097154083,24/12/21 11:38,1
+False,who starred in good burger,Mobile,0,Colorado State University,I don't use Tinder,0.389933012949978,24/12/21 11:53,1
+True,which harry potter movies have robert pattinson,Web,0,Skidmore College,Yes,0.934003246509375,24/12/21 12:08,1
+False,when did goodfellas come out,Web,1,Skidmore College,No,0.924745332571132,24/12/21 12:23,1
+False,show me the highest viwer rated movies from 1993,Web,0,Skidmore College,I don't use Tinder,0.676121582872875,24/12/21 12:38,1
+True,is princess bride a good film for children,Web,0,Rochester Institute of Technology,Yes,0.820004147066315,24/12/21 12:53,
+True,does the film speed racer use the original song from the tv show,University,2,Rochester Institute of Technology,No,0.165048221418491,24/12/21 13:08,
+False,what was the third sequel in the star wars film series,Mobile,0,Rochester Institute of Technology,I don't use Tinder,0.146889999968175,24/12/21 13:23,1
+True,what is twilight rated,Web,0,Arizona State University,Yes,0.345575579506054,24/12/21 13:38,1
+False,what is the best viewer rated vampire film,Mobile,1,Arizona State University,No,0.830276248879591,24/12/21 13:53,1
+False,find me the number of samurai films made in the 1960s,Mobile,1,Arizona State University,I don't use Tinder,0.423130395984527,24/12/21 14:08,
+True,what movie have action and suspense,Mobile,1,University of Rochester,Yes,0.241333196166063,24/01/22 14:23,1
+False,did clint eastwood make any cowboy movies in the 1970s,Mobile,2,University of Rochester,No,0.86244211177509,24/12/21 14:38,
+False,how many academy awards has daniel day lewis won,Mobile,0,University of Rochester,I don't use Tinder,0.609461416736584,24/12/21 14:53,1
+True,which movie take place in london,University,0,University of St Andrews,Yes,0.770775697856267,24/12/21 15:08,1
+False,show me the half baked cover,Web,2,University of St Andrews,No,0.414004176724612,24/12/21 15:23,1
+True,who was the lead character in billy madison,Web,1,University of St Andrews,I don't use Tinder,0.197943438673378,24/12/21 15:38,1
+True,show me listing that have micheal in them,University,0,Florida State University,Yes,0.148719033025578,24/12/21 15:53,
+False,whats the movie with the line home is where you hang your hat,Mobile,0,Florida State University,No,0.334541937309751,24/12/21 16:08,1
+False,name the director of 2001 a space odyssey,University,1,Florida State University,I don't use Tinder,0.738953069152392,24/12/21 16:23,
+True,find me a movie by james cameron,Web,1,Ithaca College,Yes,0.162701168890633,24/12/21 16:38,
+False,show the 1953 western starring alan ladd,Mobile,2,Ithaca College,No,0.257400061665959,24/12/21 16:53,
+True,who played dwight mccarthy in sin city,Mobile,1,Ithaca College,I don't use Tinder,0.115822266481571,24/12/21 17:08,1
+True,what year did the original black and white casablanca come out,Mobile,1,Union College,Yes,0.42422175532272,24/12/21 17:23,1
+True,i am looking for a movie starring elvis with scenes at a beach,Mobile,7,Union College,No,0.0702647001078,24/12/21 17:38,1
+False,what movie has seals kiss from a rose in it,University,1,Union College,I don't use Tinder,0.85038675965045,24/12/21 17:53,
+False,i am looking for jennifer love hewitt movies from the 1990s,University,0,Loyola University Maryland,Yes,0.962079878203717,24/12/21 18:08,
+False,was there a romantic film noir,University,3,Loyola University Maryland,No,0.985079576591322,24/12/21 18:23,
+True,which romantic comedies are rated pg,University,0,Loyola University Maryland,I don't use Tinder,0.795340764414297,24/12/21 18:38,1
+False,list a quote from jaws,Mobile,1,Marquette University,Yes,0.452563182553738,24/12/21 18:53,1
+True,find all romantic period pieces starring hugh grant,University,1,Marquette University,No,0.45048951448307,24/12/21 19:08,
+True,what star wars movie had darth maul,Mobile,0,Marquette University,I don't use Tinder,0.582965124383898,24/12/21 19:23,1
+False,find a trailer for space 2010,University,1,James Madison University,Yes,0.635271198970372,24/12/21 19:38,
+True,what was the name of ariels seagull in the little mermaid,University,0,James Madison University,No,0.139802855876989,24/12/21 19:53,1
+False,what year did blazing saddles release,Mobile,0,James Madison University,I don't use Tinder,0.767826008494569,24/12/21 20:08,
+True,first fairy tale disney movie,University,0,Sacred Heart University,Yes,0.89245324671679,24/12/21 20:23,
+True,what was the movie of the year in 1994,Mobile,1,Sacred Heart University,No,0.911588095097962,24/12/21 20:38,
+False,is there any iron man 3,University,0,Sacred Heart University,I don't use Tinder,0.423232993231871,24/12/21 20:53,1
+True,what was the third harry potter movie called,Mobile,2,University of Wisconsin-Whitewater,Yes,0.270050770410012,24/12/21 21:08,1
+True,name the director if the fifth harry potter movie,Mobile,2,University of Wisconsin-Whitewater,No,0.297323585917006,24/12/21 21:23,1
+False,was bill paxton in twister,Mobile,1,University of Wisconsin-Whitewater,I don't use Tinder,0.63721628300984,24/12/21 21:38,
+True,did the director of pet shop make any other movies,Mobile,1,St. Lawrence University,Yes,0.959817477906385,24/12/21 21:53,1
+False,what city was the famous car chase from the french connection in,Mobile,0,St. Lawrence University,No,0.095968160408257,24/12/21 22:08,
+False,what movie was directed by steven spielberg with the alien,Mobile,0,St. Lawrence University,I don't use Tinder,0.210437589830145,24/12/21 22:23,
+False,show me gene hackmans first film,University,0,Iowa State University,Yes,0.79287225928204,24/12/21 22:38,
+False,the must see movie in chinese,University,1,Iowa State University,No,0.934027340085623,24/12/21 22:53,
+False,what movies got a great review by roger ebert in 2011,Mobile,0,Iowa State University,I don't use Tinder,0.0275163730067,24/12/21 23:08,1
+False,show a spy movie from the 1930s,Mobile,0,University of Wisconsin-La Crosse,Yes,0.777493630921914,24/12/21 23:23,1
+True,look for the movie mean girls,Mobile,2,University of Wisconsin-La Crosse,No,0.025586682438264,24/12/21 23:38,1
+False,name a movie with carmen miranda and the marx brothers,University,1,University of Wisconsin-La Crosse,I don't use Tinder,0.804337726643627,24/12/21 23:53,1
+False,cheech and chong movies,University,3,College of William and Mary,Yes,0.804465255400973,25/12/21 00:08,1
+True,what was twister rated,Mobile,7,College of William and Mary,No,0.862978234178605,25/12/21 00:23,
+True,what is the newest version of cat people,University,6,College of William and Mary,I don't use Tinder,0.004350454889073,25/12/21 00:38,1
+True,show me harry potter,Mobile,0,University of Notre Dame,Yes,0.90452656176357,25/12/21 00:53,
+True,can you find me a romantic comedy with natalie portman,Mobile,3,University of Notre Dame,No,0.761874061334437,25/12/21 01:08,
+False,did gregg kinnear star in any movies directed my michael mann,University,2,University of Notre Dame,I don't use Tinder,0.159353058743767,25/12/21 01:23,
+True,name the theme song for 2001 a space odyssey,Mobile,2,University of Tennessee,Yes,0.493950512529754,25/12/21 01:38,1
+False,what movies had the biggest explosions,University,1,University of Tennessee,No,0.904503985429874,25/12/21 01:53,1
+False,what are the police academy films,University,1,University of Tennessee,I don't use Tinder,0.285684452031877,25/12/21 02:08,1
+False,who sang my heart will go on from titanic,University,0,Illinois State,Yes,0.588893745391182,25/12/21 02:23,
+False,was the rock in drive,Web,1,Illinois State,No,0.275135050750505,25/12/21 02:38,
+False,show me a list of comedies from the 1970s,University,1,Illinois State,I don't use Tinder,0.035314321011523,25/12/21 02:53,
+False,name a movie with joseph cotton and orson welles,Mobile,0,Auburn University,Yes,0.192493815643723,25/12/21 03:08,1
+False,get a nostradamous movie,Web,1,Auburn University,No,0.069458801996583,25/12/21 03:23,
+True,name the theme song of war horse,University,0,Auburn University,I don't use Tinder,0.567372225821147,25/12/21 03:38,1
+True,was there a time travelling high school student film,Mobile,0,Gonzaga University,Yes,0.062020417238392,25/12/21 03:53,1
+True,what is a horror film released in 1981,Web,1,Gonzaga University,No,0.753011487876747,25/12/21 04:08,1
+False,what did michael bay direct besides transformers,Mobile,0,Gonzaga University,I don't use Tinder,0.588916502572291,25/12/21 04:23,
+True,look for pirates of the caribbean series,Mobile,8,Washington State University,Yes,0.830745332769093,25/12/21 04:38,1
+True,how many saw films are there,University,12,Washington State University,No,0.299585322452551,25/12/21 04:53,
+False,what was elvis presleys last film,University,6,Washington State University,I don't use Tinder,0.213346113909975,25/12/21 05:08,
+False,name a flick from the 1980s with the word laser in the title,Web,0,Michigan State University,Yes,0.101061277417321,25/12/21 05:23,1
+False,find movies directed by judd apatow,University,1,Michigan State University,No,0.421023624455549,25/12/21 05:38,
+False,what romance films star rachel mcadams,Web,0,Michigan State University,I don't use Tinder,0.587912856168884,25/12/21 05:53,1
+True,find romantic comedies starring jennifer lopez,University,0,Florida International University,Yes,0.557546343046326,25/12/20 06:08,
+False,what were the reviews for temple grandin,Mobile,2,Florida International University,No,0.027814472710921,25/12/21 06:23,
+True,was a character called the torch in a flick,University,0,Florida International University,I don't use Tinder,0.006598653489468,25/12/21 06:38,
+True,look for dramas that have denzel washington and are academy award winners or nominees,University,0,University of Central Florida,Yes,0.118564027136354,25/12/21 06:53,
+False,show me movies directed by herbert ross with dancing as part of its story line,University,0,University of Central Florida,No,0.567343702890186,25/12/21 07:08,1
+True,where can i find a full length trailer for dark shadows,Web,1,University of Central Florida,I don't use Tinder,0.534893888288797,25/12/21 07:23,
+True,whats a 1940s bernard herman soundtrack film,Mobile,0,Castleton State College,Yes,0.843107478657289,25/12/21 07:38,1
+True,show me which movie won the academy award for best picture in 2009,University,1,Castleton State College,No,0.084085951228991,25/12/21 07:53,
+True,who directed blazing saddles,Web,0,Castleton State College,I don't use Tinder,0.452721460423727,25/12/21 08:08,1
+True,in what spiderman film did peter parker turns evil,University,0,Cal State Northridge,Yes,0.917828876721724,25/12/21 08:23,
+True,best crome movie from almodovar,Mobile,2,Cal State Northridge,No,0.969643792476241,25/12/21 08:38,1
+False,find any elvis presleyovies,Mobile,1,Cal State Northridge,I don't use Tinder,0.385384165195604,25/12/21 08:53,1
+False,who wrote the them song for the harry potter movies,Web,0,Ohio University,Yes,0.255847707554432,25/12/21 09:08,
+False,what film genre is the nightmare before christmas,Mobile,1,Ohio University,No,0.670818667688085,25/12/21 09:23,1
+False,whats the name of the movie where the world ends,Mobile,0,Ohio University,I don't use Tinder,0.539883210497075,25/12/21 09:38,1
+False,name the lindsay lohan movie that features a living race car,University,0,Pepperdine University,Yes,0.869670846870106,25/12/21 09:53,
+True,play a trailer for erin brockovich,Mobile,2,Pepperdine University,No,0.61526339402201,25/12/21 10:08,
+False,name the director of the boy in the striped pajamas,University,0,Pepperdine University,I don't use Tinder,0.579805931942902,25/12/21 10:23,1
+False,whats an old terry gilliam film,University,0,Providence College,Yes,0.685322189019499,25/12/21 10:38,
+False,how many oscars was bridesmaids nominated for,University,1,Providence College,No,0.794320707148483,25/12/21 10:53,1
+False,how many pirates of the caribbean movies is johnny depp in,Web,0,Providence College,I don't use Tinder,0.248122489943006,25/12/21 11:08,
+False,who played napoleon dynamite in the movie of the same name,Mobile,16,Appalachian State University,Yes,0.864243491932052,25/12/21 11:23,1
+True,was sean astin in the goonies,University,53,Appalachian State University,No,0.495687421199803,25/12/21 11:38,
+True,what is the movie made by james cameron in 2008,University,46,Appalachian State University,I don't use Tinder,0.677494016100448,25/12/21 11:53,1
+True,i would like to watch a romance about soccer,Mobile,0,University of Connecticut,Yes,0.444017607467059,25/12/21 12:08,1
+True,what is the rating of the hunger games,Mobile,3,University of Connecticut,No,0.717912825874304,25/12/21 12:23,1
+False,how much did the rock make in drive,University,5,University of Connecticut,I don't use Tinder,0.654344891087153,25/12/21 12:38,
+False,the 100 wrost movies ever,Web,1,"University of Wisconsin, Eau Claire",Yes,0.470538506627213,25/12/21 12:53,1
+True,was oprah in any movies,University,0,"University of Wisconsin, Eau Claire",No,0.808420692093802,25/12/21 13:08,1
+True,what year did terminator 2 come out,Mobile,0,"University of Wisconsin, Eau Claire",I don't use Tinder,0.720611894464213,25/12/21 13:23,1
+False,show me the harry potter series,University,1,University of Delaware,Yes,0.121900700890358,25/12/21 13:38,1
+True,what film features the theme song there youll be,Mobile,2,University of Delaware,No,0.45696655776673,25/12/21 13:53,
+True,play a song from blow soundtrack,University,1,University of Delaware,I don't use Tinder,0.330186712783094,25/12/21 14:08,1
+False,who played as morpheus in the matrix,Mobile,0,Massachusetts Institute of Technology,Yes,0.9547436946348,25/12/21 14:23,
+False,show me movies directed by barbra streisand,Web,1,Massachusetts Institute of Technology,No,0.207055943693579,25/12/21 14:38,1
+True,find harrison ford movies,University,1,Massachusetts Institute of Technology,I don't use Tinder,0.955868536320085,25/12/21 14:53,
+False,did josh radnor direct any movies,Mobile,0,Oregon State University,Yes,0.080449639520681,25/12/21 15:08,
+False,show me a movie with bicycles and children from the 1980s,University,1,Oregon State University,No,0.879528829319277,25/12/21 15:23,1
+False,show me a list of adam sandler movies,Mobile,0,Oregon State University,I don't use Tinder,0.386450157270668,25/12/21 15:38,1
+False,what was tom hanks first movie,Mobile,0,Whatsgoodly University,Yes,0.768750939469185,25/12/21 15:53,
+False,find comedy movies with kevin kline from the 1980s,Mobile,1,Whatsgoodly University,No,0.495198181785839,25/12/21 16:08,
+True,list any movies directed by steven spielberg,Mobile,0,Whatsgoodly University,I don't use Tinder,0.231248050296523,25/12/21 16:23,
+True,look for the movies similar to gossip girl,Mobile,7,Case Western Reserve University,Yes,0.580697679816758,25/12/21 16:38,
+True,list uma thurman movies,Mobile,12,Case Western Reserve University,No,0.297787741345263,25/12/21 16:53,1
+False,show 1939 films directed by william wyler,Mobile,12,Case Western Reserve University,I don't use Tinder,0.455350818492998,25/12/21 17:08,1
+True,show me a list of independent comedy films made in 2009,University,0,Michigan Technological University,Yes,0.667411563976075,25/12/21 17:23,
+False,list all science fiction movies playing the next 12 hours,Web,3,Michigan Technological University,No,0.679235152768669,25/12/21 17:38,
+True,is there a burt lancaster circus movie,University,1,Michigan Technological University,I don't use Tinder,0.990239204226321,25/12/21 17:53,
+True,run twilight,Mobile,1,"Meridian, Idaho",Yes,0.179304562168148,25/12/21 18:08,
+True,did denzel washington act in any romantic comedy movies,University,0,"Meridian, Idaho",No,0.980567187308495,25/12/21 18:23,
+False,did michael jordan made a cartoon film,Mobile,0,"Meridian, Idaho",I don't use Tinder,0.16535018795424,25/12/21 18:38,1
+False,who was the cast of terminator,University,4,University of Dayton,Yes,0.433657139540856,25/12/21 18:53,1
+True,show me a trailer for an alec guiness flick,University,3,University of Dayton,No,0.032737197455603,25/12/21 19:08,
+True,can you find me a list of romantic comedies from 2008,University,0,University of Dayton,I don't use Tinder,0.119726467577502,25/12/21 19:23,1
+True,how many comedy films did arnold schwarzenegger appear in,University,3,University of Kansas,Yes,0.238763970790189,25/12/21 19:38,
+True,who played leo marvin in what about bob,Mobile,5,University of Kansas,No,0.353536728803484,25/12/21 19:53,1
+False,what was the first disney movie,Web,2,University of Kansas,I don't use Tinder,0.554998933179536,25/12/21 20:08,
+True,best action thriller to watch with date,Web,0,Morehead State University,Yes,0.928465803043998,25/12/21 20:23,1
+True,what was thirteen candles rated,Mobile,0,Morehead State University,No,0.616560294143115,25/12/21 20:38,1
+True,what is the movie that has the song zip a dee doo dah,Mobile,1,Morehead State University,I don't use Tinder,0.119699971734997,25/12/21 20:53,
+False,who stared in the movie the bank job,University,1,University of Central Oklahoma,Yes,0.84076778640777,25/12/21 21:08,
+False,name the film that features the song sway by bic runga,University,0,University of Central Oklahoma,No,0.27792071103187,25/12/21 21:23,1
+False,who directed star wars,University,1,University of Central Oklahoma,I don't use Tinder,0.61605073885607,25/12/21 21:38,1
+True,find movies called best action movie of the year,University,4,Syracuse University,Yes,0.581699393066861,25/12/21 21:53,1
+True,what family movie got the best rating from kids,University,4,Syracuse University,No,0.672130994512505,25/12/21 22:08,
+False,list all versions of south pacific,University,1,Syracuse University,I don't use Tinder,0.528049514710902,25/12/21 22:23,1
+True,show me the trailer for the ryan gosling movie,Mobile,1,Colby College,Yes,0.886255349037297,25/12/21 22:38,1
+True,which movies about the mob are rated r,University,11,Colby College,No,0.912922277587486,25/12/21 22:53,1
+True,who acted in the title role of michael collins,University,2,Colby College,I don't use Tinder,0.141910663985587,25/12/21 23:08,
+True,in which movies did leonardo dicaprio play a cop or federal agent,Mobile,1,Brigham Young University,Yes,0.236120608901622,25/12/21 23:23,1
+False,what is a good r rated mystery,University,3,Brigham Young University,No,0.301300355920525,25/12/21 23:38,
+False,did jessica alba make any new movies,Mobile,4,Brigham Young University,I don't use Tinder,0.167762398457508,25/12/21 23:53,1
+True,did diablo cody direct any movies this year,Mobile,0,Arkansas State University,Yes,0.313967328845643,26/12/21 00:08,
+False,ill never let go is a famous quote from what 1990s movie,Mobile,1,Arkansas State University,No,0.923493695437097,26/12/21 00:23,
+True,show me a quentin tarantino film with uma thurman,Mobile,0,Arkansas State University,I don't use Tinder,0.118730491072521,26/12/21 00:38,
+False,find me a horror movie that fans really loved,Web,0,"Westport, CT",Yes,0.236445403232802,26/12/21 00:53,
+False,show me the title of the film thought to be a real snuff film,Mobile,0,"Westport, CT",No,0.540757616414686,26/12/21 01:08,
+False,whats a film based on a best selling contemporary novel,Mobile,1,"Westport, CT",I don't use Tinder,0.227553506833414,26/12/21 01:23,1
+True,what role won sean connery an academy award,University,0,Centre College,Yes,0.48426023228375,26/12/21 01:38,1
+True,find 1980s comedy films with an r rating,University,3,Centre College,No,0.874869155952627,26/12/21 01:53,1
+True,what film genre is young frankenstein,University,1,Centre College,I don't use Tinder,0.126985537017716,26/12/21 02:08,
+False,what movie did alen menken score,University,1,Middlebury College,Yes,0.529203505992499,26/12/21 02:23,1
+True,find an animated movie about the beatles,University,0,Middlebury College,No,0.153766419922692,26/12/21 02:38,
+True,show me a shrek clip,Mobile,0,Middlebury College,I don't use Tinder,0.21246068565223,26/12/21 02:53,1
+True,what is the worst viewer rated vampire film,Mobile,1,North Carolina State,Yes,0.066236112699151,26/12/21 03:08,1
+True,what movies did judy garland star in,University,0,North Carolina State,No,0.123216491099532,26/12/21 03:23,1
+True,what is the name of john travoltas character in the film pulp fiction,University,0,North Carolina State,I don't use Tinder,0.825718380134994,26/12/21 03:38,1
+True,find a romance movie with tom cruise,University,0,University of Kentucky,Yes,0.968575351844144,26/12/21 03:53,1
+True,what is a rated r film that features katherine heigl,University,1,University of Kentucky,No,0.173016107957719,26/12/21 04:08,1
+False,what character did michael j fox voice in homeward bound,Mobile,0,University of Kentucky,I don't use Tinder,0.457662663079113,26/12/21 04:23,1
+True,whats a monty python flick about philosophy,Mobile,1,Bucknell University,Yes,0.317465371155729,26/12/21 04:38,1
+False,show me a list of movies starring shirley temple,University,0,Bucknell University,No,0.639919117165869,26/12/21 04:53,1
+False,who said asta la vista baby,University,0,Bucknell University,I don't use Tinder,0.741445332610485,26/12/21 05:08,
+True,i want a jamie lee curtis horror film,Mobile,0,Randolph-Macon College,Yes,0.194618651198039,26/12/21 05:23,
+True,what are some funny betty white movies,Mobile,0,Randolph-Macon College,No,0.255719785024526,26/12/21 05:38,
+True,show me a film where a dog has a relationship with a cat,University,1,Randolph-Macon College,I don't use Tinder,0.260577486608262,26/12/21 05:53,1
+False,find movies with the stones songs performed in it,Web,1,Old Dominion University,Yes,0.471318638732112,26/12/21 06:08,1
+False,what film genre is blazing saddles,Mobile,0,Old Dominion University,No,0.220884300452988,26/12/21 06:23,
+True,show me a list of family movies with holiday themes,University,0,Old Dominion University,I don't use Tinder,0.021103666172545,26/12/21 06:38,
+False,true stories about hispanic musicians,University,0,University of Tampa,Yes,0.766304733780881,26/12/21 06:53,
+True,list all movies staring brad pitt,University,1,University of Tampa,No,0.997753562871356,26/12/21 07:08,
+True,what movies has ellen page been in,Mobile,0,University of Tampa,I don't use Tinder,0.407973648076724,26/12/21 07:23,
+False,show me action movies with vin diesel,Mobile,0,Roger Williams University,Yes,0.301707784017826,26/12/21 07:38,1
+True,run repo man,University,1,Roger Williams University,No,0.34983311909728,26/12/21 07:53,1
+True,can you show me the movies cher was in,Mobile,0,Roger Williams University,I don't use Tinder,0.934164373127697,26/12/21 08:08,1
+True,what was the name of harrison fords character in star wars,Mobile,4,Penn State University,Yes,0.916405852007799,26/12/21 08:23,1
+True,i want a r rated film that was later changed to pg,Mobile,5,Penn State University,No,0.172717350938749,26/12/21 08:38,
+True,who played andy duphrane in shawshank redemption,Mobile,1,Penn State University,I don't use Tinder,0.782321487742692,26/12/21 08:53,
+True,what was james deans last film,Mobile,1,Minnesota State University Mankato,Yes,0.098518003923915,26/12/21 09:08,
+True,find an action flick with martin lawrence,University,0,Minnesota State University Mankato,No,0.494907803667235,26/12/21 09:23,1
+False,were any movies adapted from stage in the 2000s,Web,0,Minnesota State University Mankato,I don't use Tinder,0.412938882536763,26/12/21 09:38,1
+True,who directed drive,Web,0,University of Florida,Yes,0.222232967182739,26/12/21 09:53,
+True,show movies from the 1960s directed by stanley kubrick,Mobile,1,University of Florida,No,0.406400461007249,26/12/21 10:08,1
+True,who directed blow,Mobile,0,University of Florida,I don't use Tinder,0.799634539964772,26/12/21 10:23,1
+False,show me action movies starring sylvester stallone,University,0,Boston College,Yes,0.699904050922034,26/12/21 10:38,1
+False,what movies has mariah carey been in,University,4,Boston College,No,0.140061470998158,26/12/21 10:53,
+True,what horror movies came out in the 80s,Mobile,1,Boston College,I don't use Tinder,0.426620365337437,26/12/21 11:08,
+False,i want to see a action comedy,University,2,Boston University,Yes,0.355643567915004,26/12/21 11:23,1
+False,disney cartoon with classical music and animals,Mobile,3,Boston University,No,0.136846401922578,26/12/21 11:38,
+False,are there any horror movies with a g rating,Mobile,1,Boston University,I don't use Tinder,0.352159345103286,26/12/21 11:53,
