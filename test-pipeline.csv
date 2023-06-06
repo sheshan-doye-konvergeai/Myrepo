@@ -1,0 +1,113 @@
+﻿The popular text generator ChatGPT is getting a new version that can recognize images. According to the announcement by the software’s creators, the so-called GPT-4 has improved its results regarding factual accuracy compared to previous versions.
+
+
+The creator of the ChatGPT chat system will launch a more advanced artificial intelligence model, GPT-4. It is supposed to provide safer and more valuable answers and pave the way for spreading human-like technologies.
+
+
+HBM3 Prices Are Skyrocketing, It’s ChatGPT’s Fault
+Nvidia Hopper: the world’s most powerful AI accelerator, up to 6x faster than Ampere
+medium.com
+
+
+But the main asset of the new version will be image creation. The Microsoft-funded start-up OpenAI, the system's creator, announced in a statement on Tuesday. An earlier generation of ChatGPT, using the GPT-3.5 model, could generate articles, essays, jokes and even poetry based on simple queries.
+
+
+Based on the vast amount of data, it is similar to humans learning how to respond to user suggestions. OpenAI made ChatGPT available to the public for free at the end of last November. The system quickly gained popularity.
+
+
+What can ChatGPT do?
+So far, the free ChatGPT service is a text generator based on the large language model GPT-3.5. Users can converse with the “chatbot” using text on virtually any topic. ChatGPT impresses by being able to reply meaningfully, lead debates, write articles, poems or essays precisely as specified, generate working source code…
+
+
+
+
+Screenshot courtesy of Jakub Jirák | LinkedIn
+Model GPT3
+GPT-3, the great neural network of our time, was released in May 2020 by OpenAI, an artificial intelligence startup co-founded by Elon Musk and Sam Altman. GPT-3 is a cutting-edge language model with 175 billion parameters, compared to 1.5 billion parameters in its predecessor GPT-2. GPT-3 surpassed Microsoft’s NLG Turing model (Turing Natural Language Generation), which previously held the record for the largest neural network with 17 billion parameters.
+
+
+Why Apple Doesn’t Make Cross-Platform Apps
+Let’s take a look at it together
+medium.com
+
+
+The language model has been praised, criticized, and even scrutinized, yielding new and interesting applications. And now there are reports that GPT-4, the next release of the OpenAI language model, is coming soon. You're on the right page if you want to learn more about GPT-4. This article will look at GPT-4 in detail, covering its parameters, comparisons with other models, and more.
+
+
+GPT-3 allowed users to input natural language for practical purposes but still needed some expertise to create a challenge that would produce good results. GPT-4 will be significantly better at predicting user intent.
+
+
+What is the GPT-4?
+To understand the scope of GPT-4, we must first understand GPT-3, its predecessor. GPT-3 (Generative Pre-trained Transformer, third generation) is a standalone content generation tool. Users input data into machine learning by OpenAI, which can then produce massive amounts of relevant writing in response. GPT-4 will be significantly better at multitasking in conditions with few shots — a type of machine learning — to bring the results even closer to human ones.
+
+
+Model GPT4
+OpenAI said that the GPT-4 model “exhibits human-level performance in various professional and academic benchmark tests”, with improved results in factual accuracy compared to previous versions. “GPT-4 can solve difficult problems with greater accuracy, is more reliable, more creative, and can process much finer instructions,” OpenAI writes.
+
+
+While it may appear similar to the older model in casual conversation, the difference is only noticeable when tackling more challenging tasks. “GPT-4 is 82 percent less likely to respond to requests for unauthorized content and 40 percent more likely to provide substantive answers in our internal evaluations than GPT-3.5,” the company adds.
+
+
+Exclusive Features That Can Only Be Used On Some iPads
+Here are 5 such features from iPadOS 16
+medium.com
+
+
+The new version also switches to a so-called multimodal model. This, unlike the existing language model, will allow the software to work with different forms of media. Andrey Karpathy, an OpenAI employee, tweeted that this feature means the AI “sees”.
+
+
+GPT-4 can have as many properties as a synapse in the brain. GPT-4 will mainly use the same methods as GPT-3, so rather than a leap in paradigm, GPT-4 will extend what GPT-3 currently achieves — but with a significantly greater ability to infer.
+
+
+The parameters of GPT-4?
+Despite being one of the most anticipated advances in AI, something has yet to be discovered about GPT-4: what it will look like, what features it will have, and what capabilities it will have. Last year, Altman did a Q&A and revealed a few details about OpenAI’s ambitions for GPT-4.
+
+
+According to Altman, it would be no bigger than GPT-3. GPT-4 may not be the most widely used language model. While the model will be a vast neural network compared to previous generations, its size will not be its distinguishing feature. GPT-3 and Gopher are the most likely candidates (175B-280B).
+
+
+Nvidia and Microsoft’s Megatron-Turing NLG held the record for densest neural network parameters at 530B — triple that of GPT-3 — until recently when Google’s PaLM took it to 540B. A surprising number of smaller models have surpassed MT-NLG.
+
+
+Windows 11 Is Now Just a Click Away On a Mac With Apple Silicon
+How does it work?
+medium.com
+
+
+According to the power-law connection, Jared Kaplan of OpenAI and his colleagues determined in 2020 that performance improves the most when processing budget increases are spent mostly on increasing the number of parameters. Google, Nvidia, Microsoft, OpenAI, DeepMind, and other language modelling companies dutifully complied.
+
+
+Altman indicated that they no longer focus on building massive models but on maximising smaller models' performance.
+
+
+OpenAI researchers were early proponents of the scaling hypothesis but may have discovered that other, previously undiscovered paths can lead to better models. GPT-4 will not be significantly larger than GPT-3 for these reasons.
+
+
+OpenAI will focus more on other aspects, such as data, algorithms, parameterization and alignment, that have the potential to deliver significant benefits more quickly. We must wait to see what the 100T model can do.
+
+
+What do experts think about this?
+OpenAI has confirmed that GPT-4 can receive and recognise and interpret image input. For example, it cited a model where the software is asked to explain why a certain image is funny. But the release is limited to subscribers of the premium ChatGPT Plus service; others must sign up for a waiting list.
+
+
+“That means combining not only text but potentially images as well. The interaction would not only be in conversation with text, but it would be possible to ask questions about the images,” he told New Sky.
+
+
+
+
+Other companies are also creating collaborative AI. Google on Tuesday unveiled a “magic wand” for its software that can design virtually any document. Then there are already AI tools designed to generate images, such as Dall-E. It can generate images based on simple text instructions.
+
+
+Oliver Lemon, an artificial intelligence expert at Heriot-Watt University in Edinburgh, says it could be possible to ask questions through images.
+
+
+Conclusion
+Artificial General Intelligence. It’s a big goal, but the OpenAI developers are working towards it. The goal of AGI is to create a model or “agent” capable of understanding and doing any activity a human can. GPT-4 may be the next step towards achieving this goal, and it sounds like something out of a science fiction movie.
+
+
+How Big Is The Beast Of The Basic M2 Mac mini
+Apple Mac mini for $599 vs Apple iMac for $8k. Does the mini even have a chance to beat such a machine?
+medium.com
+
+
+You might be surprised how realistic it is to achieve AGI. According to Ray Kurzweil, Director of Engineering at Google, we will reach this milestone by 2029. With that in mind, let’s take a deeper look at GPT-4 and the implications of this model as we approach AGI (Artificial General Intelligence).
